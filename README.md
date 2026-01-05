@@ -17,7 +17,8 @@
 <img src="https://img.shields.io/badge/-PHP-000?style=for-the-badge&amp;logo=php" alt="PHP">
 </p>
 <h4 id="js-framework-library">JS Framework/Library</h4>
-<p><img src="https://img.shields.io/badge/-NextJS-000?style=for-the-badge&amp;logo=next.js" alt="Next JS">
+<p>
+ <!-- <img src="https://img.shields.io/badge/-NextJS-000?style=for-the-badge&amp;logo=next.js" alt="Next JS"> -->
 <img src="https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&amp;logo=react" alt="React">
 </p>
 <h4 id="css-framework-library-pre-processors">CSS Framework/Library/Pre-processors</h4>

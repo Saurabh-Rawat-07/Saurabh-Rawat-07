@@ -21,6 +21,14 @@
  <!-- <img src="https://img.shields.io/badge/-NextJS-000?style=for-the-badge&amp;logo=next.js" alt="Next JS"> -->
 <img src="https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&amp;logo=react" alt="React">
 </p>
+
+<h4 id="js-framework-library">CMS</h4>
+<p>
+ <!-- <img src="https://img.shields.io/badge/-NextJS-000?style=for-the-badge&amp;logo=next.js" alt="Next JS"> -->
+<img src="https://img.shields.io/badge/-wordpress-000?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress">
+ <img src="https://img.shields.io/badge/-shopify-000?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify">
+</p>
+
 <h4 id="css-framework-library-pre-processors">CSS Framework/Library/Pre-processors</h4>
 <p><img src="https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&amp;logo=tailwind-css" alt="TailwindCSS">
 <img src="https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&amp;logo=bootstrap" alt="Bootstrap">
